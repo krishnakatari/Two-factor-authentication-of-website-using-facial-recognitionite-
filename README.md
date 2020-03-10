@@ -2,7 +2,7 @@
 
 Description: This project explains a new graphical password scheme to provide security to confidential
 data for different sites by providing a Keyword that is more resilient to Cyber Attacks like phishing and man in the middle attacks.
-Technologies Used:- Flask, MYSQL, HTML, Java Script.
+Technologies Used:- Keras, Flask, MYSQL, HTML, Java Script.
 
 
 ![1](https://user-images.githubusercontent.com/25890584/74859076-5cd2ed80-5314-11ea-962b-2d91cb59edd8.png)
