@@ -9,9 +9,13 @@ Technologies Used:- Keras, Flask, HTML, Java Script.
 
 
 Work Flow:
+
+
 1. The image of a person is taken during signup
 
 ![2](https://user-images.githubusercontent.com/25890584/74859079-5d6b8400-5314-11ea-8d47-4f931e4b748d.png)
+
+
 
 2. during login, we will validate the details given at the sign-up. An image is taken during log-in and will compare with the image give on sign-in. After validating both the images the person will gets logged-in.
 
@@ -19,6 +23,11 @@ Work Flow:
 
 
 Used Keras API for identifying person in an image frame. Used opencv to modify the image to the required format to feed the deep neural network layer. Deployed the model using Flask framework. 
+
+
+3. After recognition of image from the webcam the user will be successfully logged-in
+
+![4](https://user-images.githubusercontent.com/25890584/76988514-3310e480-691b-11ea-856c-0466166c423d.jpg)
 
 
 References:
