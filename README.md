@@ -1,5 +1,12 @@
 # Two-factor-authentication-of-website-using-facial-recognition-
 
+Important point: 
+1. The problem statement is inspired from the words of Professor Kenneth A Bermann expressing that he must log onto uc canvas using face recognition.
+2. I didn't write or modified any single line of code, I just executed the code of susantabiswas. He has already done an excellant work, I just learnt how he did with keras, Flask frameworks
+Reference:
+https://github.com/susantabiswas/facial-login-web
+
+
 Description: This project explains a new graphical password scheme to provide security to confidential
 data for different sites by providing a Keyword that is more resilient to Cyber Attacks like phishing and man in the middle attacks.
 Technologies Used:- Keras, Flask, HTML, Java Script.
