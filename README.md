@@ -2,7 +2,7 @@
 
 Important point: 
 1. The problem statement is inspired from the words of Professor Kenneth A Bermann expressing that he must log onto uc canvas using face recognition.
-2. Most of the code below is taken from the author susantabiswas. He has already done an excellant work, I just learnt how he did with keras, Flask frameworks
+2. Much of the code below is taken from the author susantabiswas. He has  done an excellant work, I just learnt how he did with keras, Flask frameworks
 
 
 Description: This project explains a new graphical password scheme to provide security to confidential
